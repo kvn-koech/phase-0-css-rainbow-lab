@@ -9,3 +9,32 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+#RED
+  {
+    /* this selects any elements with the RED id */
+    border-top-color: #f00;
+  }
+#ORANGE {
+    /* this selects any elements with the ORANGE id */
+    border-top-color: #ffa500;
+  }
+#YELLOW {
+    /* this selects any elements with the YELLOW id */
+    border-top-color: #ff0;
+  }
+#GREEN {
+    /* this selects any elements with the GREEN id */
+    border-top-color: #00bc3f;
+  }
+#BLUE {
+    /* this selects any elements with the BLUE id */
+    border-top-color: #06f;
+  }
+#INDIGO {
+    /* this selects any elements with the INDIGO id */
+    border-top-color: #8a2be2;
+  }
+#VIOLET {
+    /* this selects any elements with the VIOLET id */
+    border-top-color: #d300c9;
+  }
